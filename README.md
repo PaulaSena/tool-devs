@@ -139,6 +139,13 @@
 - [Scrum para Devs](https://drive.google.com/drive/folders/1yjJI-0KAJLysoebtlZ9sQ_JEXVhs0FM2?usp=sharing)
 - [Tim Tec](https://cursos.timtec.com.br/)
 - [Rocketseat](https://www.rocketseat.com.br/discover )
+- [Sass](https://www.youtube.com/watch?v=XwPSWKnZIg4&list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J)
+- [Javascript](https://www.youtube.com/playlist?list=PLWhiA_CuQkbCX9nHuk4rolDYxlLUwXpNI)
+- [React](https://www.youtube.com/playlist?list=PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC)
+- [NodeJs](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
+- [REST API](https://www.youtube.com/playlist?list=PL3B-OV5dZTqbaLi1f2UmXEWbcx9WyYaTX)
+- [Typescript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_)
+- [Node + Typescript](https://www.youtube.com/playlist?list=PLn3kOoc0oI2cQDdUEQxj75sxgRH53DmSc)
 
 ## Ideias
 - [App Ideias](https://github.com/florinpop17/app-ideas)
