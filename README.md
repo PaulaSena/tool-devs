@@ -92,6 +92,10 @@
 - [WebFlow](https://webflow.com/)
 - [WebFlow Templates](https://webflow.com/tag/portfolio-websites)
 
+## PodCast
+- [DevNaEstrada](https://devnaestrada.com.br/)
+- [PodProgramar](https://podprogramar.com.br/)
+
 ## Imagens Free
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://www.pexels.com/pt-br/)
