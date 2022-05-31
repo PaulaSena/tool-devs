@@ -1,6 +1,6 @@
 # Documentações, Dicas e Pacotes NodeJS :robot:
 
-- [Nodejs](https://nodejs.org/en/)
+- [Nodejs](https://www.w3schools.com/nodejs/)
 - [Joi](https://www.npmjs.com/package/joi)
 - [Express](https://www.npmjs.com/package/express)
 - [Axios](https://www.npmjs.com/package/axios)
