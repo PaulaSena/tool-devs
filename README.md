@@ -666,7 +666,6 @@
 
 ### Aumentando o network
 
-- [Guia Dev Brasil](https://linktr.ee/guiadevbrasil) - Guia Dev Brasil <br>
 - [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos <br>
 - [Comunidade CodigoPraTodos](https://comunidade.codigopratodos.com/) - Comunidade CodigoPraTodos no Discord e Forum <br>
 - [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord <br>
