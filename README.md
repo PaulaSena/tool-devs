@@ -122,6 +122,7 @@
 - [Audio Converter](https://online-audio-converter.com/pt/)<br>
 - [Editor Imagens](https://pixlr.com/br/x/)<br>
 - [Pagespeed](https://pagespeed.web.dev/)<br>
+- [Marketing](https://mega.nz/folder/AsZ3zAAK#aAppQXvBxQLI5r2MtCaNkQ/folder/R0JGVbTB)<br>
 
 ### Repositórios 
 - [Marketing Digital](https://mega.nz/folder/AsZ3zAAK#aAppQXvBxQLI5r2MtCaNkQ/folder/o5giSZ4Q)<br>
