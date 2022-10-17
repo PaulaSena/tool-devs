@@ -131,6 +131,7 @@
 ### Livros
 - [Casa do Código](https://drive.google.com/drive/folders/1N3Cs8z2DbG3-bfH3jUpJwm3wId9VDO5B?usp=sharing)<br>
 - [Caleum](https://drive.google.com/drive/folders/1D2Zo_eTwf0-SQ561rsHU-3C7OXDkIdl5?usp=sharing)<br>
+- [Negócios](https://drive.google.com/drive/u/0/folders/1go1kGH8H56m_KL332MUz8e7tTfDarLWg)
 
 
 ### Sites para estudar programação
