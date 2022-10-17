@@ -1128,7 +1128,7 @@
 - [Elixir4Noobs](https://github.com/aleDsz/elixir4noobs) <br>
 - [ElixirSchool](https://elixirschool.com/pt) <br>
 
-### 🐷 Cursos de React
+### Cursos de React
 
 - [Curso de React.js 1](https://youtube.com/playlist?list=PLXik_5Br-zO9YVs9bxi7zoQlKq59VPTX1) <br>
 - [React](https://www.youtube.com/playlist?list=PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC) <br>
