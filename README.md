@@ -20,7 +20,6 @@
 
 ### Fundamentos:
 **1. Git e GitHub**
-### Git e Github:
 - [Markdown](https://www.markdownguide.org/)
 - [Badges](https://github.com/Ileriayo/markdown-badges)
 - [Emojins](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
