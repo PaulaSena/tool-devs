@@ -37,7 +37,7 @@
 - [JWT](https://jwt.io/)<br>
 
 ### Mobile
-#### Android
+**1. Android**
 
 - [Android Studio](https://developer.android.com/studio)
 - [Pallete de Cores](https://www.materialpalette.com/)
@@ -48,9 +48,18 @@
 - [Thiengo Calopsita](https://www.thiengo.com.br/android)
 - [Repo-Curso Android](https://github.com/profmaddo/Curso-Desenvolvimento-Android/tree/master/Aulas2016_2021)
 
-#### React Native
+**2. React Native**
 
+- [ReactNative](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [Expo-icons](https://icons.expo.fyi/)
+- [Rocketseat-Blog](https://react-native.rocketseat.dev/android/linux)
+- [Iphone x-helper](https://github.com/ptelad/react-native-iphone-x-helper)
+- [Aplicativo WebView](https://gustavosouza.dev.br/como-ter-um-aplicativo-android-de-qualquer-pagina/)
 
+  **3. Flutter**
+
+  
 
 ### Desafios
 - [HackRank](https://www.hackerrank.com/)<br>
