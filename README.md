@@ -1,12 +1,12 @@
 # Dicas, Documentações, Ferramentas para Devs :robot:
 
-### Configuração
+### Configuração:
 - [SSH Key](https://gustavosouza.dev.br/front-end/chave-ssh-do-github/)<br>
 - [Github](GitHub.md)<br>
 - [GitLab](https://gitlab.com/users/sign_in)<br>
 - [ESLint](https://eslint.org/docs/user-guide/getting-started)<br>
 
-### Web
+### Web:
 - [VSCode](https://code.visualstudio.com/)<br>
 - [HTML](Html.md)<br>
 - [CSS](Css.md)<br>
@@ -18,7 +18,7 @@
 - [Bootstrap](Bootstrap.md)<br>
 - [Materialize](https://materializecss.com/)<br>
 
-### Backend
+### Backend:
 - [Java](Java.md)<br>
 - [MySQL](MySQL.md)<br>
 - [Elephant SQL](https://customer.elephantsql.com/login)<br>
@@ -27,7 +27,7 @@
 - [Docker](Docker.md)<br>
 - [NodeJs](Nodejs.md)<br>
 
-### API
+### API:
 - [MirajeJS](https://miragejs.com/)<br>
 - [JSON Server](https://gustavosouza.dev.br/criando-api-com-json-server/)<br>
 - [Public APIs](https://github.com/public-apis/public-apis)<br>
@@ -57,17 +57,26 @@
 - [Iphone x-helper](https://github.com/ptelad/react-native-iphone-x-helper)
 - [Aplicativo WebView](https://gustavosouza.dev.br/como-ter-um-aplicativo-android-de-qualquer-pagina/)
 
-  **3. Flutter**
-
+**3. Flutter**
   
+- [Flutter](https://flutter.dev/)
 
-### Desafios
-- [HackRank](https://www.hackerrank.com/)<br>
-- [Beecrowd](https://www.beecrowd.com.br/judge/en/login)<br>
-- [Codier](https://codier.io/)<br>
-- [Devchallenges](https://devchallenges.io/)<br>
+- [Curso de Flutter - Desenvolva um Cadastro Completo 2020](https://www.cod3r.com.br/courses/flutter-desenvolva-um-cadastro-completo) <br>
+- [Curso de Flutter 1](https://www.youtube.com/playlist?list=PLl_hIu4u7P677H9f6zPOHiOz2izkvQq2E) <br>
+- [Curso de Flutter 2](https://www.youtube.com/playlist?list=PL_wKlpKIC9vWubXsj3IRPZ2Rk6QMfsPPg) <br>
+- [Curso de Flutter 3](https://www.youtube.com/playlist?list=PLEXr-WZRgPjwk2v5wYi70WN--pCGvN-9u) <br>
+- [Curso de Flutter 4](https://www.youtube.com/playlist?list=PLRpTFz5_57cufduUDgiZZqA_k5Q7UV_50) <br>
+- [Curso de Flutter 5](https://www.youtube.com/playlist?list=PLrfnI95Js56bWvNYF5ItofdQy3aoJj4tQ) <br>
+- [Curso de Flutter 6](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) <br>
+- [Curso de Flutter 7](https://www.youtube.com/playlist?list=PLqdwHeoSjEN-9aGd-RxaS_2cyD_AKT0c_) <br>
+- [Curso de Flutter 8](https://www.youtube.com/playlist?list=PLg5-aZqPjMmBmCIgUZ0kNtoE7KJfvJZXS) <br>
+- [Curso de Flutter 9](https://www.youtube.com/playlist?list=PLHlHvK2lnJndhgbqLl5DNEvKQg5F4ZenQ) <br>
+- [Curso de Flutter 10](https://www.youtube.com/playlist?list=PL5EmR7zuTn_aX0pG4oWTyKKQT25Hkq2XG) <br>
 
-### Testes
+**4. Ionic**
+  - [IONIC](https://ionicframework.com/)
+
+### Testes:
 - [Jest](Jest.md)<br>
 - [RTL](https://testing-library.com/docs/react-testing-library/intro/)<br>
 - [Cypress](https://www.cypress.io/)<br>
@@ -75,10 +84,11 @@
 - [Chai](https://www.chaijs.com/)<br>
 - [Selenium](https://www.selenium.dev/)<br>
 
-### Deploy
+### Deploy:
 - [Heroku](https://dashboard.heroku.com/login)<br>
 - [Netlify](https://app.netlify.com/teams/gustavogss/overview)<br>
 - [Vercel](https://vercel.com/dashboard)<br>
+
 
 ### Colors
 - [Palette Colors](https://www.happyhues.co/palettes/12)<br>
@@ -87,55 +97,140 @@
 - [Icons Background](https://patternico.com/)<br>
 - [Colorhexa](https://www.colorhexa.com/9c27b0)<br>
 
-### Animações
+### Animações:
 - [Lottiefiles](https://lottiefiles.com/)<br>
 - [Rive](https://rive.app/welcome/?m=direct)<br>
 
-### Prototipação
+### Prototipação:
 - [Figma](https://www.figma.com/)<br>
 - [Wireframa-Balsamiq](https://balsamiq.com/wireframes/)<br>
 - [Marvel](https://marvelapp.com/signin?next=/dashboard/)<br>
 
-### Tools Manager
+### Tools Manager:
 - [Whimsical](https://whimsical.com/)<br>
 - [Trello](https://trello.com/)<br>
 - [Jira](https://www.atlassian.com/br/software/jira)<br>
 - [Notion](https://www.notion.so/)<br>
 - [Lucid](https://lucid.app/)<br>
 
-### DevOps 
+### DevOps:
 - [Terraform](https://learn.hashicorp.com/terraform)<br>
 - [AWS](https://aws.amazon.com/pt/)<br>
 
-### LowCode
+### LowCode:
 - [WordPress](Wordpress.md)<br>
 - [WebFlow](https://webflow.com/)<br>
 - [WebFlow Templates](https://webflow.com/tag/portfolio-websites)<br>
+- [Flutter Flow](https://flutterflow.io/)
 
-### PodCast
+### PodCast:
 - [DevNaEstrada](https://devnaestrada.com.br/)<br>
 - [PodProgramar](https://podprogramar.com.br/)<br>
 
-### Imagens Free
+### Fontes:
+- [Adobe Fonts](https://fonts.adobe.com/) <br>
+- [Google fonts](https://fonts.google.com/) <br>
+- [Dafont](https://www.dafont.com/pt/)<br>
+- [NetFontes](https://www.netfontes.com.br/) <br>
+- [Urbanfonts](https://www.urbanfonts.com/pt/) <br>
+- [Befonts](https://befonts.com/) <br>
+- [Fonts space](https://www.fontspace.com/) <br>
+- [1001 fonts](https://www.1001fonts.com/) <br>
+- [Abstract fonts](https://www.abstractfonts.com/) <br>
+- [Fontget](https://www.fontget.com/) <br>
+- [Material Design Icons](https://materialdesignicons.com/) <br>
+
+### Imagens Grátis:
 - [Unsplash](https://unsplash.com/)<br>
 - [Pexels](https://www.pexels.com/pt-br/)<br>
 - [Freepik](https://br.freepik.com/)<br>
 - [Stocksnap](https://stocksnap.io/)<br>
 - [Ilustrations](https://undraw.co/illustrations)<br>
+- [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas <br>
+- [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify <br>
+- [Cupcake](http://cupcake.nilssonlee.se/) - Imagens gratuitas para uso comercial <br>
+- [Banco De Imagens Com Diversidade](https://github.com/JulianaHelena5/BancoDeImagensComDiversidade) - Banco de imagens com pessoas diversas <br>
+- [DrawKIT](https://www.drawkit.io/) - Ilustrações para qualquer um usar <br>
+- [FlatIcon](https://www.flaticon.com) - Banco de ícones vetoriais <br>
+- [Flickr](https://flickr.com/) - Rede social de fotógrafos <br>
+- [FreeImages](https://pt.freeimages.com/) - Banco de imagens gratuitas <br>
+- [FreePik Stories](https://stories.freepik.com/) - Banco de ilustrações gratuitas <br>
+- [Freerange](https://freerangestock.com/index.php) - Banco de imagens gratuitas <br>
+- [Glaze](https://www.glazestock.com) - Banco de ilustrações, sem direitos autorais <br>
+- [Gratisography](https://gratisography.com/) - Banco de imagens gratuitas <br>
+- [Humaaans](https://www.humaaans.com/) - Ilustrações de humanóides <br>
+- [Icons8](https://icons8.com.br/) - Ícones em diversos estilos <br>
+- [Imgur](https://imgur.com/) - Plataforma com milhões de imagens <br>
+- [IraDesign](https://iradesign.io/illustrations) - Ilustrações editáveis de cores e objetos <br>
+- [Life of Pix](https://www.lifeofpix.com/) - Banco de imagens gratuitas <br>
+- [Little Visuals](https://littlevisuals.co/) - Banco de imagens gratuitas <br>
+- [Lorempixel](http://lorempixel.com/) - Banco de imagens para uso como template <br>
+- [Lukas Zadam](https://lukaszadam.com/illustrations) - Ilustrações SVG em diferentes tamanhos e estilos <br>
+- [ManyPixels](https://www.manypixels.co/gallery/) - Galeria de ilustrações com direito a edição de cores <br>
+- [Morguefile](https://morguefile.com/) - Banco de imagens gratuitas <br>
+- [Nappy](https://www.nappy.co) - Banco de imagens gratuitas (atribuição recomendada) <br>
+- [Nos.twnsnd](https://nos.twnsnd.co/) - Arquivo público de fotos antigas <br>
+- [OpenMoji](https://openmoji.org/) - Banco de emojis para uso <br>
+- [Pexels](https://www.pexels.com/) - Banco de imagens gratuitas <br>
+- [PhotoPin](http://photopin.com/) - Banco de imagens gratuitas no estilo criativo <br>
+- [Picjumbo](https://picjumbo.com/) - Banco de imagens gratuitas <br>
+- [Picsum](https://picsum.photos/) - Banco de imagens para uso como template <br>
+- [Pixabay](http://www.pixabay.com) - Banco de imagens gratuitas (não requer atribuição) <br>
+- [Public domain archive](https://www.publicdomainarchive.com/) - Banco de imagens gratuitas <br>
+- [RemixIcon](https://remixicon.com/) - Banco de Ícones para uso gratuito <br>
+- [StockSnap](https://stocksnap.io/) - Banco de imagens gratuitas (não requer atribuição) <br>
+- [unDraw](https://undraw.co/) - Ilustrações livres para usar <br>
+- [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas <br>
+- [Visual Hunt](https://visualhunt.com/) - Banco de imagens gratuitas <br>
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial <br>
+- [Noun Project](https://thenounproject.com/photos/) - Banco de imagens stock gratuitas <br>
 
-### Icones
+### Icones:
 - [Personal Icon](https://pt.gravatar.com/site/login)<br>
 - [Google Icons](https://fonts.google.com/icons?selected=Material+Icons)<br>
 - [Ionic icons](https://ionic.io/ionicons)<br>
 - [Facebook Emogins](https://pt.piliapp.com/facebook-symbols/)<br>
 - [Font-awesome-cnd](https://cdnjs.com/libraries/font-awesome)<br>
 - [Font-awesome-icons](https://fontawesome.com/icons)<br>
+- [DrawKIT](https://drawkit.com/free-icons) <br>
+- [Eva Icons](https://akveo.github.io/eva-icons/#/) <br>
+- [Feather Icons](https://feathericons.com/) <br>
+- [Heroicons](https://heroicons.dev/) <br>
+- [Iconsvg](https://iconsvg.xyz/) <br>
+- [Icons8 Line Awesome](https://icons8.com/line-awesome/) <br>
+- [Icons8](https://icons8.com.br/) <br>
+- [Shape](https://shape.so/) <br>
+- [Flaticon](https://www.flaticon.com/br/) <br>
+- [Bootstrap icons](https://icons.getbootstrap.com/) <br>
+- [devicon](https://devicon.dev/) <br>
+- [Noun Project](https://thenounproject.com/) <br>
+- [Iconfinder](https://www.iconfinder.com/) <br>
+- [iconmonstr](https://iconmonstr.com/) <br>
+- [Reshot](https://www.reshot.com/)
+- [Phosphor Icon](https://phosphoricons.com) - Família flexível de ícones com integração HTML/CSS, React e Vue <br>
+- [Thenounproject](https://thenounproject.com/) <br>
 
-### Logomarca
+### Logomarca:
 - [tailorbrands](https://studio.tailorbrands.com/login)<br>
 - [Logomakr](https://logomakr.com/)<br>
 
-### Utilitários
+### Livros:
+- [Casa do Código](https://drive.google.com/drive/folders/1N3Cs8z2DbG3-bfH3jUpJwm3wId9VDO5B?usp=sharing)<br>
+- [Caleum](https://drive.google.com/drive/folders/1D2Zo_eTwf0-SQ561rsHU-3C7OXDkIdl5?usp=sharing)<br>
+- [Negócios](https://drive.google.com/drive/u/0/folders/1go1kGH8H56m_KL332MUz8e7tTfDarLWg)
+- [Clean Code - Código Limpo](https://g.co/kgs/62wx9t) <br>
+- [Refactoring - Refatoração](https://g.co/kgs/Hf2eY3) <br>
+- [Clean Archtecture - Arquitertura Limpa](https://g.co/kgs/Hf2eY3) <br>
+- [O programador pragmático](https://g.co/kgs/5nbqB3) <br>
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [14 Hábitos de Desenvolvedores Altamente Produtivos](https://g.co/kgs/1fGbnx) <br>
+- [The Road to learn React (Português)](https://leanpub.com/the-road-to-learn-react-portuguese) <br>
+
+### Repositórios:
+- [Marketing Digital](https://mega.nz/folder/AsZ3zAAK#aAppQXvBxQLI5r2MtCaNkQ/folder/o5giSZ4Q)<br>
+- [5 Liberdades](https://mega.nz/folder/IxtEVAbZ#--CjnkkFdHpW_8oLKTtSAw)<br>
+
+### Utilitários:
 - [IloveIMG](https://www.iloveimg.com/)<br>
 - [Pix Generator](https://devtools.com.br/gerador-de-chave-pix/)<br>
 - [Webm-mp4](https://convertio.co/pt/webm-mp4/)<br>
@@ -144,18 +239,8 @@
 - [Pagespeed](https://pagespeed.web.dev/)<br>
 - [Marketing](https://mega.nz/folder/AsZ3zAAK#aAppQXvBxQLI5r2MtCaNkQ/folder/R0JGVbTB)<br>
 
-### Repositórios 
-- [Marketing Digital](https://mega.nz/folder/AsZ3zAAK#aAppQXvBxQLI5r2MtCaNkQ/folder/o5giSZ4Q)<br>
-- [5 Liberdades](https://mega.nz/folder/IxtEVAbZ#--CjnkkFdHpW_8oLKTtSAw)<br>
 
-### Livros
-- [Casa do Código](https://drive.google.com/drive/folders/1N3Cs8z2DbG3-bfH3jUpJwm3wId9VDO5B?usp=sharing)<br>
-- [Caleum](https://drive.google.com/drive/folders/1D2Zo_eTwf0-SQ561rsHU-3C7OXDkIdl5?usp=sharing)<br>
-- [Negócios](https://drive.google.com/drive/u/0/folders/1go1kGH8H56m_KL332MUz8e7tTfDarLWg)
-
-
-### Sites para estudar programação
-
+### Estudar Programação:
 - [Rocketseat](https://rocketseat.com.br/) - Cursos gratuitos sobre as tecnologias mais quentes do mercado <br>
 - [Digital Innovation One](http://digitalinnovation.one/) - Plataforma de ensino gratuita que desenvolve e conecta talentos <br>
 - [Torne-se um Programador](https://www.torneseumprogramador.com.br/cursos) - Dezenas de cursos gratuitos completos e avançados com aplicações reais de mercado. <br>
@@ -193,8 +278,7 @@
 - [Complete Intro to Web Development](https://btholt.github.io/intro-to-web-dev-v2/) - Site com os principais conteúdos referentes a desenvolvimento web criado e mantido por um dos professores do site Frontend Masters (EN) <br>
 - [4noobs](https://github.com/he4rt/4noobs) - Repositório desenvolvido para mostrar os conhecimentos básicos em diversas linguagens e ferramentas para desenvolvedores iniciantes. <br>
 
-### Sites para desenvolvedor front-end
-
+### Desenvolvimento Front-end:
 - [Uiverse](https://uiverse.io/) - Rede social de elementos de interfaces. <br>
 - [Text Pop 3D](https://textpop3d.web.app/) - Cria efeitos de texto 3D <br>
 - [Shape Dividers](https://shapedividers.com) - Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG <br>
@@ -204,8 +288,7 @@
 - [Naevner](https://naevner.com) - Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais) <br>
 - [Meta Tags](https://metatags.io/) - Elementos de metadados HTML gerados automaticamente para melhor o SEO <br>
 
-### Sites para aprender a programar jogando
-
+### Aprender a programar jogando:
 - [Code Combat](https://br.codecombat.com) - Site para aprender conceitos e linguagens de programação enquanto joga <br>
 - [CheckiO](https://checkio.org) - CheckiO é um site que tem como objetivo ensinar programação, mas todos os desafios de codificação devem ser concluídos em Python. <br>
 - [CodeWars](https://www.codewars.com/) - Desafios de Programação Back-end. IDE integrada <br>
@@ -218,16 +301,14 @@
 - [CSS Grid Attack](https://codingfantasy.com/games/css-grid-attack) - Ataque inimigos enquanto treina práticas de CSS, com uma narrativa mais profunda <br>
 - [Code](https://code.org/minecraft) - Site para estudos de algoritmos com a temática do jogo Minecraft <br>
 
-###  Templates HTML gratuitos
-
+###  Templates HTML gratuitos:
 - [Bootstrap Made](https://bootstrapmade.com/) - Temas HTML5 + CSS3 gratuitos <br>
 - [W3 Layouts](https://w3layouts.com) - Temas HTML5 + CSS3 gratuitos <br>
 - [One Page Love](https://onepagelove.com) - Temas HTML5 + CSS3 gratuitos <br>
 - [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Temas HTML5 + CSS3 gratuitos <br>
 - [HTML5 UP](https://html5up.net/) - Temas HTML5 + CSS3 gratuitos
 
-###  Sites para aprender ou treinar CSS
-
+###  Aprender ou treinar CSS:
 - [CSS Grid Garden](http://cssgridgarden.com/) - Ferramenta online para estudos de Grid (CSS) <br>
 - [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática <br>
 - [Flex Box Froggy](https://flexboxfroggy.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada. <br>
@@ -237,8 +318,7 @@
 - [CSS Tricks](https://css-tricks.com/guides/) - Site para treinar <br>
 - [CSS Hell](https://csshell.dev/) - Coleção de erros comuns de CSS e como corrigi-los <br>
 
-### Geradores de CSS
-
+### Geradores de CSS:
 - [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius <br>
 - [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Gerador de formas com border-radius no CSS <br>
 - [WAIT! Animate](https://waitanimate.wstone.io) - Gerador de animações de CSS <br>
@@ -247,8 +327,7 @@
 - [BennettFeely](https://bennettfeely.com/clippy/) - Criador de clip-path <br>
 - [Animista](https://animista.net) - Criador de animações
 
-### Sites para buscar vagas remotas
-
+### Vagas remotas:
 - [BairesDev](https://www.bairesdev.com) <br>
 - [Bergamot](https://bergamot.io) <br>
 - [Coodesh](https://coodesh.com) <br>
@@ -264,7 +343,6 @@
 - [X-Team](https://x-team.com) <br>
 
 ### Ferramentas de desenvolvimento:
-
 - [Internxt](https://internxt.com/) - Internxt Drive é um armazenamento de arquivos de conhecimento zero serviço baseado na melhor privacidade e segurança da classe <br>
 - [Motion](https://motion.dev/) - Uma nova biblioteca de animação, construída na API Web Animations para o menor tamanho de arquivo e o desempenho mais rápido. <br>
 - [Hokusai](https://hokusai.app/) - Conteúdo sobre NFT's <br>
@@ -353,8 +431,7 @@
 - [Patterns.dev](https://www.patterns.dev/) - Design patterns para projetos web modernos <br>
 - [Devhints](https://devhints.io/) - Documentação curta, prática e objetiva de cada linguagem de programação <br>
 
-### Gerenciamento de projetos
-
+### Gerenciamento de projetos:
 - [Asana](https://asana.com/pt) - Gerenciamento de trabalho <br>
 - [Azure DevOps](https://azure.microsoft.com/services/devops/) - Gerenciamento de projetos focados em planejamento, colaboração e entregas <br>
 - [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro <br>
@@ -375,8 +452,7 @@
 - [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros <br>
 - [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online <br>
 
-### IDEs e editores de código
-
+### IDEs e Editores de código:
 - [Atom](https://atom.io/) - Editor de código do GitHub <br>
 - [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS <br>
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Editor de código SQL e gerenciador de banco de dados <br>
@@ -400,8 +476,7 @@
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft <br>
 - [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft <br>
 
-### Design Front-end
-
+### Design Front-end:
 - [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos <br>
 - [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces <br>
 - [Bootstrap](https://www.getbootstrap.com/) - Framework CSS <br>
@@ -455,8 +530,7 @@
 - [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map <br>
 - [X-Icon Editor](http://www.xiconeditor.com/) - Gerador de favicon com alta resolução a partir de imagens <br>
 
-### Linguagens de programação
-
+### Linguagens de programação:
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++ <br>
 - [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs) <br>
 - [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter <br>
@@ -483,8 +557,7 @@
 - [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica) <br>
 - [Julia](https://julia-pt-br.readthedocs.io/pt_BR/latest/manual/introduction.html) - Linguagem de programação dinâmica para experimentos de alta performance <br>
 
-### Guia de Estilo
-
+### Guia de Estilo:
 - [Airbnb - Javascript](https://github.com/airbnb/javascript) - Guia de estilo de código em JavaScript do Airbnb <br>
 - [Airbnb - Ruby](https://github.com/airbnb/ruby) - Guia de estilo de código em Ruby do Airbnb <br>
 - [Google - Boas práticas em Engenharia](https://github.com/google/eng-practices) - Boas práticas de Engenharia utilizadas pelos internos da Google <br>
@@ -492,54 +565,12 @@
 - [Google - Python](https://google.github.io/styleguide/pyguide.html) - Guia de estilo de código em Python do Google <br>
 - [Google - Java](https://google.github.io/styleguide/javaguide.html) - Guia de estilo de código em Java do Google <br>
 
-### Desafios
-
-- [Ace Front End](https://www.acefrontend.com/) - Desafios de programação Front-end. Resultados via texto. IDE integrada <br>
-- [AdventoOfCode](https://adventofcode.com/) - Desafios de programação por temporada. Sem IDE integrada. Validação manual feita pelo usuário <br>
-- [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio <br>
-- [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros <br>
-- [ChallengeRocket](https://challengerocket.com/) - Desafios de Programação Back-end. IDE integrada <br>
-- [Code Golf - StackExchange](https://codegolf.stackexchange.com/) - Desafios de programação da comunidade para a comunidade, IDE integrada somente pelo Snippet <br>
-- [CodeForces](https://codeforces.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada <br>
-- [CodePen Challenges](https://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada <br>
-- [CoderByte](https://coderbyte.com/) - Desafios de Programação Back-end. IDE integrada <br>
-- [CodeSignal](https://app.codesignal.com/) - Desafios de Programação Back-end. IDE integrada <br>
-- [CodeWars](https://www.codewars.com/) - Desafios de Programação Back-end. IDE integrada <br>
-- [Codier](https://codier.io/challenge) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade. IDE integrada <br>
-- [Codility](https://app.codility.com/) - Desafios de Programação Back-end. IDE integrada <br>
-- [Coding Games](https://www.codingame.com/) - Desafios Programação Back-end com foco em temática de jogos. IDE integrada <br>
-- [CSES](https://cses.fi/problemset/) - Desafios de Programação Back-end. IDE integrada <br>
-- [CSS Battle](https://cssbattle.dev/) - Batalhas temporárias de CSS. IDE integrada <br>
-- [DailyCodingProblem](https://www.dailycodingproblem.com/) - Desafios de Programação Back-end enviados por e-mail. Solução do problema Premium <br>
-- [Desafio333](https://github.com/codigofalado/desafio333) - O Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas <br>
-- [DevChallenge](https://www.devchallenge.com.br/) - Site com desafios de front-end, back-end e mobile <br>
-- [DevChallenges.io](https://devchallenges.io/) - Site com projectos webs responsivos, front-end e full-stack <br>
-- [Edabit](https://edabit.com/) - Desafios de Programação Back-end. IDE integrada <br>
-- [Exercism.io](https://exercism.io/) - Desafios de Programação Back-end. Sem IDE integrada. Requer download de CLI. <br>
-- [Flex Box Defense](http://www.flexboxdefense.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada. <br>
-- [Flex Box Froggy](https://flexboxfroggy.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada. <br>
-- [Front End Challanged Club](https://piccalil.li/category/front-end-challenges-club) - Bogs com desafios de programação front-end <br>
-- [Frontend Challengens](https://github.com/felipefialho/frontend-challenges) - Repositório no GitHub com vários desafios solicitados reais solicitados por empresas <br>
-- [Frontend Mentor](https://www.frontendmentor.io/) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade, sem IDE integrada <br>
-- [HackerRank](https://www.hackerrank.com/) - Desafios de Programação Back-end. IDE integrada <br>
-- [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal <br>
-- [LeetCode](https://leetcode.com/) - Desafios de Programação Back-end. IDE integrada <br>
-- [BinarySearch](https://binarysearch.com/) - Desafios de Programação Back-end. IDE integrada <br>
-- [CodeAbbey](https://www.codeabbey.com/) - Desafios de Programação Back-end. IDE integrada <br>
-- [ProjectEuler](https://projecteuler.net/) - Desafios de Programação Back-end focado em problemas matemáticos. IDE integrada <br>
-- [Sphere Onlune Judge (SPOJ)](https://www.spoj.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada <br>
-- [TopCoder](https://arena.topcoder.com/) - Desafios e Arena de Programação Back-end. IDE integrada <br>
-- [URI/Beecrowd](https://www.beecrowd.com.br/) - Desafios Programação Back-end, matemáticos e SQL. IDE integrada <br>
-- [OsProgramadores](https://osprogramadores.com/desafios/) - Desafios de Lógica de Programação do grupo Os Programadores.<br>
-
-### Ferramentas para desenvolvedores WEB
-
+### Ferramentas para desenvolvedores WEB:
 - [Minimamente](https://www.minimamente.com/project/magic/) <br>
 - [Hamburgers](https://jonsuh.com/hamburgers/) <br>
 - [Hover Effects](https://ianlunn.github.io/Hover/) <br>
 
-### Ferramentas para buscar projetos open source
-
+### Ferramentas para buscar projetos open source:
 - [Up for Grabs](http://up-for-grabs.net/) <br>
 - [Isse Hub](http://issuehub.pro/) <br>
 - [Code Triage](https://www.codetriage.com/) <br>
@@ -547,8 +578,7 @@
 - [Your First Pr](https://twitter.com/yourfirstpr) <br>
 - [Github Explore](https://github.com/explore/) <br>
 
-### Melhores distros linux para programadores
-
+### Melhores distros linux para programadores:
 - [Pop!\_Os](https://pop.system76.com/) - Distribuição Linux Pop!\_Os <br>
 - [Arch Linux](https://archlinux.org/) - Distribuição Linux Arch Linux <br>
 - [Debian](https://www.debian.org/) - Distribuição Linux Debian <br>
@@ -563,8 +593,7 @@
 - [Zorin OS](https://zorin.com/os/) - Distribuição Linux Zorin <br>
 - [Kubuntu](https://kubuntu.org/) - Distribuição Linux Kubuntu <br>
 
-### Bibliotecas JavaScript
-
+### Bibliotecas JavaScript:
 - [Lax.js](https://github.com/alexfoxy/lax.js) <br>
 - [Swiper](https://swiperjs.com/) <br>
 - [WOW](https://wowjs.uk/) <br>
@@ -573,8 +602,7 @@
 - [Particles.js](https://vincentgarreau.com/particles.js/) <br>
 - [ScrollMagic](https://scrollmagic.io/) <br>
 
-### 9 Ferramentas que todo DEV precisa conhecer
-
+### 9 Ferramentas que todo DEV precisa conhecer:
 - [Unminify](https://unminify.com/) - Ferramenta desofuscação de códigos. 
 - [Figma](https://www.figma.com) - ferramenta para design de interfaces. <br>
 - [Insomnia](https://insomnia.rest) - é um API Client, uma ferramenta para fazer testes de API's. <br>
@@ -585,16 +613,14 @@
 - [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - é uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos. <br>
 - [ThunderClient](https://www.thunderclient.io) - é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP. <br>
 
-### Sites para praticar UI/UX
-
+### Sites para praticar UI/UX:
 - [Sharpen](https://sharpen.design/) <br>
 - [Daily UI](https://www.dailyui.co/) <br>
 - [UX Challenges](https://uxtools.co/challenges) <br>
 - [Drawerrr](https://drawerrr.com/challenge) <br>
 - [Uplabs](https://www.uplabs.com/challenges) <br>
 
-### Ferramentas para hospedar seu site
-
+### Ferramentas para hospedar seu site:
 - [Github Pages](https://pages.github.com/) - Hospedado diretamente de seu repositório GitHub. Basta editar, enviar e suas alterações entrarão em vigor <br>
 - [Award Space](https://www.awardspace.com/) - Hospedagem gratuita na web + um subdomínio gratuito, PHP, MySQL, instalador de aplicativo, envio de e-mail e sem anúncios <br>
 - [Byet](https://byet.host/) - Hospedagem Gratuita e Serviços de Hospedagem Premium. <br>
@@ -621,8 +647,7 @@
 - [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso <br>
 - [Vercel](https://vercel.com/) - Hospedagem grátis de sites estáticos e serveless <br>
 
-### Sites para inspirar o seu desenvolvimento
-
+### Sites para inspirar o seu desenvolvimento:
 - [Product Hunt](https://www.producthunt.com/) <br>
 - [Namify](https://namify.tech/?ref=producthunt) <br>
 - [Dribbble](https://dribbble.com/) <br>
@@ -643,49 +668,8 @@
 - [Collect UI](https://collectui.com) <br>
 - [Best Web Site](https://bestwebsite.gallery) <br>
 
-### Banco de imagens gratuitas
 
-- [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas <br>
-- [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify <br>
-- [Cupcake](http://cupcake.nilssonlee.se/) - Imagens gratuitas para uso comercial <br>
-- [Banco De Imagens Com Diversidade](https://github.com/JulianaHelena5/BancoDeImagensComDiversidade) - Banco de imagens com pessoas diversas <br>
-- [DrawKIT](https://www.drawkit.io/) - Ilustrações para qualquer um usar <br>
-- [FlatIcon](https://www.flaticon.com) - Banco de ícones vetoriais <br>
-- [Flickr](https://flickr.com/) - Rede social de fotógrafos <br>
-- [FreeImages](https://pt.freeimages.com/) - Banco de imagens gratuitas <br>
-- [FreePik Stories](https://stories.freepik.com/) - Banco de ilustrações gratuitas <br>
-- [Freerange](https://freerangestock.com/index.php) - Banco de imagens gratuitas <br>
-- [Glaze](https://www.glazestock.com) - Banco de ilustrações, sem direitos autorais <br>
-- [Gratisography](https://gratisography.com/) - Banco de imagens gratuitas <br>
-- [Humaaans](https://www.humaaans.com/) - Ilustrações de humanóides <br>
-- [Icons8](https://icons8.com.br/) - Ícones em diversos estilos <br>
-- [Imgur](https://imgur.com/) - Plataforma com milhões de imagens <br>
-- [IraDesign](https://iradesign.io/illustrations) - Ilustrações editáveis de cores e objetos <br>
-- [Life of Pix](https://www.lifeofpix.com/) - Banco de imagens gratuitas <br>
-- [Little Visuals](https://littlevisuals.co/) - Banco de imagens gratuitas <br>
-- [Lorempixel](http://lorempixel.com/) - Banco de imagens para uso como template <br>
-- [Lukas Zadam](https://lukaszadam.com/illustrations) - Ilustrações SVG em diferentes tamanhos e estilos <br>
-- [ManyPixels](https://www.manypixels.co/gallery/) - Galeria de ilustrações com direito a edição de cores <br>
-- [Morguefile](https://morguefile.com/) - Banco de imagens gratuitas <br>
-- [Nappy](https://www.nappy.co) - Banco de imagens gratuitas (atribuição recomendada) <br>
-- [Nos.twnsnd](https://nos.twnsnd.co/) - Arquivo público de fotos antigas <br>
-- [OpenMoji](https://openmoji.org/) - Banco de emojis para uso <br>
-- [Pexels](https://www.pexels.com/) - Banco de imagens gratuitas <br>
-- [PhotoPin](http://photopin.com/) - Banco de imagens gratuitas no estilo criativo <br>
-- [Picjumbo](https://picjumbo.com/) - Banco de imagens gratuitas <br>
-- [Picsum](https://picsum.photos/) - Banco de imagens para uso como template <br>
-- [Pixabay](http://www.pixabay.com) - Banco de imagens gratuitas (não requer atribuição) <br>
-- [Public domain archive](https://www.publicdomainarchive.com/) - Banco de imagens gratuitas <br>
-- [RemixIcon](https://remixicon.com/) - Banco de Ícones para uso gratuito <br>
-- [StockSnap](https://stocksnap.io/) - Banco de imagens gratuitas (não requer atribuição) <br>
-- [unDraw](https://undraw.co/) - Ilustrações livres para usar <br>
-- [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas <br>
-- [Visual Hunt](https://visualhunt.com/) - Banco de imagens gratuitas <br>
-- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial <br>
-- [Noun Project](https://thenounproject.com/photos/) - Banco de imagens stock gratuitas <br>
-
-### Aumentando o network
-
+### Networking:
 - [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos <br>
 - [Comunidade CodigoPraTodos](https://comunidade.codigopratodos.com/) - Comunidade CodigoPraTodos no Discord e Forum <br>
 - [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord <br>
@@ -698,22 +682,7 @@
 - [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog <br>
 - [OsProgramadores](https://t.me/osprogramadores) - Grupo para incentivar o aprendizado de programação. <br>
 
-### Sites para baixar e encontrar fontes
-
-- [Adobe Fonts](https://fonts.adobe.com/) <br>
-- [Google fonts](https://fonts.google.com/) <br>
-- [Dafont](https://www.dafont.com/pt/)<br>
-- [NetFontes](https://www.netfontes.com.br/) <br>
-- [Urbanfonts](https://www.urbanfonts.com/pt/) <br>
-- [Befonts](https://befonts.com/) <br>
-- [Fonts space](https://www.fontspace.com/) <br>
-- [1001 fonts](https://www.1001fonts.com/) <br>
-- [Abstract fonts](https://www.abstractfonts.com/) <br>
-- [Fontget](https://www.fontget.com/) <br>
-- [Material Design Icons](https://materialdesignicons.com/) <br>
-
-### Sites de paletas de cores
-
+### Paletas de cores:
 - [Paletton](https://paletton.com/) <br>
 - [Adobe Color](https://color.adobe.com/pt/create/color-wheel/) <br>
 - [Color Hunt](https://colorhunt.co/) <br>
@@ -728,8 +697,7 @@
 - [ColorBox](https://colorbox.io/) <br>
 - [ColorSpace](https://mycolor.space) <br>
 
-### Lista de ilustrações
-
+### Lista de ilustrações:
 - [DrawKIT](https://www.drawkit.io/) <br>
 - [Humaaans](https://www.humaaans.com/) <br>
 - [Open Doodle](https://www.opendoodles.com/) <br>
@@ -745,29 +713,7 @@
 - [Openpeeps](https://www.openpeeps.com/) <br>
 
 
-### Sites de icones
-
-- [DrawKIT](https://drawkit.com/free-icons) <br>
-- [Eva Icons](https://akveo.github.io/eva-icons/#/) <br>
-- [Feather Icons](https://feathericons.com/) <br>
-- [Font Awesome](https://fontawesome.com) <br>
-- [Heroicons](https://heroicons.dev/) <br>
-- [Iconsvg](https://iconsvg.xyz/) <br>
-- [Icons8 Line Awesome](https://icons8.com/line-awesome/) <br>
-- [Icons8](https://icons8.com.br/) <br>
-- [Shape](https://shape.so/) <br>
-- [Flaticon](https://www.flaticon.com/br/) <br>
-- [Bootstrap icons](https://icons.getbootstrap.com/) <br>
-- [devicon](https://devicon.dev/) <br>
-- [Noun Project](https://thenounproject.com/) <br>
-- [Iconfinder](https://www.iconfinder.com/) <br>
-- [iconmonstr](https://iconmonstr.com/) <br>
-- [Reshot](https://www.reshot.com/)
-- [Phosphor Icon](https://phosphoricons.com) - Família flexível de ícones com integração HTML/CSS, React e Vue <br>
-- [Thenounproject](https://thenounproject.com/) <br>
-
-### Canais do youtube com conteúdo gratuito
-
+### Canais do youtube com conteúdo gratuito:
 - [Alura](https://www.youtube.com/user/aluracursosonline) - Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia <br>
 - [CódigoFonteTV](https://www.youtube.com/user/codigofontetv) - Leon e Nilce da programação <br>
 - [Android Developers](https://www.youtube.com/user/androiddevelopers) - Canal oficial da comunidade de desenvolvedores do Android <br>
@@ -858,8 +804,7 @@
 - [Nick Chapsas](https://www.youtube.com/c/Elfocrash) - Canal de um engenheiro de software de Londres com tutoriais e dicas de ferramentas Microsoft (ASPNET Core, C#, etc)  <br>
 - [Tiago Aguiar](https://www.youtube.com/c/TiagoAguiar) - Canal de um desenvolvedor mobile com experiência em Android & IOS. <br>
 
-### Pentest
-
+### Pentest:
 - [Beef-Project](https://beefproject.com/) - Framework de exploração de browser <br>
 - [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros <br>
 - [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal <br>
@@ -870,8 +815,7 @@
 - [picoCTF](https://picoctf.com/) - Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes <br>
 - [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL <br>
 
-### Blogs e Podcasts
-
+### Blogs e Podcasts:
 - [DevNaEstrada](https://devnaestrada.com.br/) - Desenvolvimento web em geral <br>
 - [Dicas de programação](https://dicasdeprogramacao.com.br/): Dicas para <br>
 - [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área <br>
@@ -903,8 +847,7 @@
 - [Fora da Norma](https://www.youtube.com/channel/UCPA5AzEp_MGEVTDSVCkgShg) - Podcast da 42SP sobre o universo Tech. <br>
 - [Torne-se um Programador Podcast](https://open.spotify.com/show/50tgLD0cGqINLLLKNDULRl) - Podcast sobre programação e empreendedorismo digital. <br>
 
-### Business
-
+### Business:
 - [BossaBox](https://bossabox.com/) - Rede de desenvolvedores, designers e gerentes <br>
 - [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo <br>
 - [Impulso](https://impulso.network/) - Uma rede gratuita para impulsionar o seu crescimento profissional <br>
@@ -914,8 +857,7 @@
 
 - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap): Trilha de caminhos para seguir para se tornar um desenvolvedor WEB <br>
 
-###  Extensões para o seu navegador
-
+###  Extensões para o seu navegador:
 - [File Icons for GitHub and GitLab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe) <br>
 - [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) <br>
 - [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) <br>
@@ -928,18 +870,7 @@
 - [Octotree](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc) <br>
 - [daily.dev](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied) <br>
 
-### Recomendação de livros
-
-- [Clean Code - Código Limpo](https://g.co/kgs/62wx9t) <br>
-- [Refactoring - Refatoração](https://g.co/kgs/Hf2eY3) <br>
-- [Clean Archtecture - Arquitertura Limpa](https://g.co/kgs/Hf2eY3) <br>
-- [O programador pragmático](https://g.co/kgs/5nbqB3) <br>
-- [Eloquent JavaScript](https://eloquentjavascript.net/)
-- [14 Hábitos de Desenvolvedores Altamente Produtivos](https://g.co/kgs/1fGbnx) <br>
-- [The Road to learn React (Português)](https://leanpub.com/the-road-to-learn-react-portuguese) <br>
-
-### Apps para praticar programação
-
+### Apps para praticar programação:
 - [SoloLearn](https://www.sololearn.com/home) <br>
 - [Pydriod3 Android](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_US&gl=US) <br>
 - [Mimo Android](https://play.google.com/store/apps/details?id=com.getmimo&hl=pt_BR&gl=US) <br>
@@ -948,8 +879,7 @@
 - [Codecademy iOS](https://apps.apple.com/us/app/codecademy-go/id1376029326) <br>
 - [GrassHopper Android](https://play.google.com/store/apps/details?id=com.area120.grasshopper&hl=pt_BR&gl=US6) <br>
 
-###  Sites para treinar projetos front-end
-
+###  Sites para treinar projetos front-end:
 - [Frontend Mentor](https://www.frontendmentor.io/) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade, sem IDE integrada <br>
 - [Codier](https://codier.io/challenge) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade. IDE integrada <br>
 - [Code Well](https://codewell.cc/) - Treine suas habilidade de HTML e CSS com alguns templates <br>
@@ -958,18 +888,15 @@
 - [DevChallenges](https://devchallenges.io/) - Site com desafios de Front-end e Fullstack <br>
 - [Codelândia](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=624%3A2) - Desafios front-end e back-end <br>
 
-### Sites para treinar projetos back-end
-
+### Sites para treinar projetos back-end:
 - [Dev Challenge Back-End](https://devchallenge.vercel.app/challenges?type=backend) - Treine suas habilidades com desafios Back-end <br>
 - [Codelândia](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=624%3A2) - Desafios front-end e back-end <br>
 
 ### Sites para treinar projetos mobile
-
 - [Dev Challenge Mobile](https://devchallenge.vercel.app/challenges?type=mobile) - Treine suas habilidades com desafios Mobile <br>
 
 
-### Cursos de Java
-
+### Cursos de Java:
 - [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34) <br>
 - [Maratona Java](https://youtu.be/VKjFuX91G5Q) <br>
 - [Learn Java 8 Full Course in 9 Hours](https://www.youtube.com/watch?v=grEKMHGYyns) <br>
@@ -981,8 +908,7 @@
 - [Curso de Java 3](https://youtube.com/playlist?list=PLucm8g_ezqNrQmqtO0qmew8sKXEEcaHvc) <br>
 - [Curso de Java 4](https://www.youtube.com/watch?v=mRryrODqQcw&list=PLJ0AcghBBWSi6nK2CUkw9ngvwWB1gE8mL) <br>
 
-### Cursos de JavaScript
-
+### Cursos de JavaScript:
 - [Curso completo de Javascript (46 aulas):](https://goo.gl/zfjfkQ) <br>
 - [Curso de introdução ao Java script](https://youtu.be/i6Oi-YtXnAU) <br>
 - [Curso Java script básico](https://youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm) <br>
@@ -998,8 +924,7 @@
 - [Playlist de projetos de JS](https://www.youtube.com/playlist?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j) <br>
 - [Fundamentos de JavaScript Funcional](https://www.cod3r.com.br/courses/javascript-funcional-fundamentos) <br>
 
-### Cursos de HTML e CSS
-
+### Cursos de HTML e CSS:
 - [Curso em video](https://github.com/gustavoguanabara/html-css): <br>
 - [Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) <br>
 - [Curso completo e atual de HTML5 e CSS3 - Módulo 2 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s) <br>
@@ -1021,8 +946,7 @@
 - [Curso completo de CSS3 (22 aulas)](https://goo.gl/ebjzVG) <br>
 - [Curso de CSS3 com Sass e Compass (9 aulas)](https://goo.gl/bAO0hE) <br>
 
-### Cursos de Python
-
+### Cursos de Python:
 - [Curso de Python 1](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
 - [Curso de Python 2](https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) <br>
 - [Curso de Python 3](https://www.youtube.com/watch?v=XKHEtdqhLK8) <br>
@@ -1041,15 +965,13 @@
 - [Python 3 - Curso Rápido](https://www.cod3r.com.br/courses/python-3-curso-rapido) <br>
 - [Python Fundamentos Para Análise de Dados 3.0](https://www.datascienceacademy.com.br/course/python-fundamentos) <br>
 
-### Cursos de PHP
-
+### Cursos de PHP:
 - [Curso de PHP 1](https://youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq) <br>
 - [Curso de PHP 2](https://youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) <br>
 - [Curso Básico de PHP (20 aulas)](https://goo.gl/wLra9o) <br>
 - [Curso Completo de PHP (108 aulas)](https://goo.gl/1th6ok) <br>
 
-### Cursos de C#
-
+### Cursos de C#:
 - [Curso de C# 1](https://www.youtube.com/playlist?list=PLxd1RHU8YgYkHCbZqtqWuaYHASNERx-Tn) <br>
 - [Curso de C# 2](https://youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi) <br>
 - [Curso de C# 3](https://www.youtube.com/playlist?list=PLCPwMcbEISGFu-hmzvTQyvogjAlAbOKQx) <br>
@@ -1060,8 +982,7 @@
 - [Curso de C# 8](https://www.youtube.com/playlist?list=PLucm8g_ezqNoMPIGWbRJXemJKyoUpTjA1) <br>
 - [Curso de C# 9](https://www.youtube.com/playlist?list=PLO_xIfla8f1wDmI0Vd4YJLKBJhOeQ3xbz) <br>
 
-### Cursos de C
-
+### Cursos de C:
 - [Curso de C 1](https://youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) <br>
 - [Curso de C 2](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2) <br>
 - [Curso de C 3](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) <br>
@@ -1079,21 +1000,18 @@
 - [Curso de C 15](https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_) <br>
 - [Curso de C 16](https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA) <br>
 
-### Cursos de C++
-
+### Cursos de C++:
 - [Curso de C++ 1](https://youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) <br>
 - [Curso de C++ 2](https://youtube.com/playlist?list=PLR8Jf69jN0ulqMI8n85Cr2NsoerSF9DF5) <br>
 - [Guia de C++ 3](https://www.inf.ufpr.br/ci208/NotasAula.pdf) <br>
 - [Curso de C++ 4](https://www.youtube.com/playlist?list=PLX6Nyaq0ebfgWfHqVHVAEPCDG54RLArJh) <br>
 
-### Cursos de Camunda
-
+### Cursos de Camunda:
 - [Curso de Camunda 1](https://www.youtube.com/playlist?list=PLb7Px7q28I7UqIdEnZDP0RCPB2wEvO7KW) <br>
 - [Curso de Camunda 2](https://www.youtube.com/watch?v=f9DmrLPMjRM&list=PLc_Oj42KdFQGex3gBjtVZtYWyVhDu0VEo) <br>
 - [Curso de Camunda 3](https://www.youtube.com/watch?v=l-sCUKQZ44s&list=PLJG25HlmvsOUnCziyJBWzcNh7RM5quTmv) <br>
 
-### Cursos de Kotlin
-
+### Cursos de Kotlin:
 - [Curso de Kotlin 1](https://youtube.com/playlist?list=PLPs3nlHFeKTr-aDDvUxU971rPSVTyQ6Bn) <br>
 - [Curso de Kotlin 2](https://www.youtube.com/playlist?list=PLmcyA-BbqsvJnOZoGNHPMF1dCBq0m6Qzg) <br>
 - [Curso de Kotlin 3](https://www.youtube.com/playlist?list=PLM8_o_MDe-LEpabjij2vyHZnxI7Knrxkj) <br>
@@ -1114,22 +1032,19 @@
 - [Curso de Kotlin 18](https://cursos.alura.com.br/course/fundamentos-android-kotlin) <br>
 - [Curso de Kotlin 19](https://play.kotlinlang.org/koans/Classes/Data%20classes/Task.kt) <br>
 
-### Cursos de Swift
-
+### Cursos de Swift:
 - [Curso de Swift 1](https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-) <br>
 - [Curso de Swift 2](https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC) <br>
 - [Curso de Swift 2](https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm) <br>
 
-### Cursos de Go
-
+### Cursos de Go:
 - [Curso de GO 1](https://youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) <br>
 - [Curso de GO 2](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW) <br>
 - [Curso de GO 3](https://www.youtube.com/playlist?list=PLdKnuzc4h6gFmPLeous4S0xn0j9Ik2s3Y) <br>
 - [Curso de GO 4](https://www.youtube.com/playlist?list=PLt1J5u9LpM5-L-Ps8jjr91pKhFxAnxKJp) <br>
 - [Curso de GO 5](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) <br>
 
-### Cursos de Ruby
-
+### Cursos de Ruby:
 - [Introdução ao Ruby On-Rails](https://youtube.com/playlist?list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ) <br>
 - [Curso de Ruby On-Rails 1](https://youtube.com/playlist?list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV) <br>
 - [Curso de Ruby On-Rails 2](https://youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) <br>
@@ -1137,8 +1052,7 @@
 - [Curso de Ruby On-Rails (15 aulas)](https://goo.gl/LcHcn4) <br>
 - [Curso de Ruby On Rails (49 aulas)](https://goo.gl/4oXEAP) <br>
 
-### Cursos de Elixir
-
+### Cursos de Elixir:
 - [Curso de Elixir 1](https://www.youtube.com/watch?v=GXlyLSVDkhI&list=PLydk1OOOmzo8VBeU334j4R4WvSByRNpXR&ab_channel=ELLYACADEMY) <br>
 - [Curso de Elixir 2](https://www.youtube.com/watch?v=2weVIXHyIwI&list=PLF5ttO8F-IsT42x53iFxOhmY70AWf-nd6&index=53&ab_channel=AdolfoNeto) <br>
 - [Curso de Elixir 3](https://www.youtube.com/watch?v=XHxRv0f2MEY&list=PLr4c053wuXU-YY4GmqUM3y_uauspsmO0O&ab_channel=queroser.ninja-FernandoDaciuk) <br>
@@ -1147,8 +1061,7 @@
 - [Elixir4Noobs](https://github.com/aleDsz/elixir4noobs) <br>
 - [ElixirSchool](https://elixirschool.com/pt) <br>
 
-### Cursos de React
-
+### Cursos de React:
 - [Curso de React.js 1](https://youtube.com/playlist?list=PLXik_5Br-zO9YVs9bxi7zoQlKq59VPTX1) <br>
 - [React](https://www.youtube.com/playlist?list=PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC) <br>
 - [Curso de React.js 2](https://youtube.com/playlist?list=PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC) <br>
@@ -1157,8 +1070,7 @@
 - [Curso Intensivo de Next JS e React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) <br>
 - [Curso de React Native com Hooks e Context API - Cadastro Completo](https://www.cod3r.com.br/courses/react-native-crud) <br>
 
-### Cursos de React Native
-
+### Cursos de React Native:
 - [Curso de React Native 1](https://www.youtube.com/playlist?list=PLx4x_zx8csUgyDN7j9L7gykBjxByM_etD) <br>
 - [Curso de React Native 2](https://www.youtube.com/playlist?list=PL85ITvJ7FLojBfY7TifCq7P417AZdsP4k) <br>
 - [Curso de React Native 3](https://www.youtube.com/playlist?list=PLx4x_zx8csUgyDN7j9L7gykBjxByM_etD) <br>
@@ -1215,8 +1127,7 @@
 - [Curso de Angular 2 (56 aulas)](https://goo.gl/mxPqRt) <br>
 - [Curso de Angular 9 - Essencial](https://www.cod3r.com.br/courses/angular-9-essencial) <br>
 
-### Cursos de Vue
-
+### Cursos de Vue:
 - [Library de Vue](https://revue-draggable.vercel.app/) <br>
 - [Vue 3 Notification](https://github.com/kyvg/vue3-notification) <br>
 - [Curso de Vue 1](https://www.youtube.com/playlist?list=PLWNaqtzH6CWR-dykXeDD5XmMzJur9JBIh) <br>
@@ -1241,8 +1152,7 @@
 - [Curso de Vue 20](https://www.youtube.com/playlist?list=PLSk-H3V-Rn5E5DrKFFeROu5j1FaYGA7gl) <br>
 - [Curso de Vue 21](https://www.youtube.com/playlist?list=PLUW39uIualVtC9sciopJGnuOsjZuytE4z) <br>
 
-### Cursos de Svelte
-
+### Cursos de Svelte:
 - [Curso Intensivo de Svelte](https://www.cod3r.com.br/courses/svelte-intensivo) <br>
 - [Curso de Svelte 1](https://www.youtube.com/playlist?list=PLV8x_i1fqBw2QScggh0pw2ATSJg_WHqUN) <br>
 - [Curso de Svelte 2](https://www.youtube.com/playlist?list=PLPl81lqbj-4J6xcUu7SW4f3Y1ou8X8rRY) <br>
@@ -1253,22 +1163,8 @@
 - [Curso de Svelte 7](https://www.youtube.com/playlist?list=PLNBi2FtnN_UY_bLPWm2_0O8dReEsCNYhv) <br>
 - [Curso de Svelte 8](https://www.youtube.com/playlist?list=PL0dTfY76y54PSpCel0rBb5VR2A-mMnDLJ) <br>
 
-### Cursos de Flutter
 
-- [Curso de Flutter - Desenvolva um Cadastro Completo 2020](https://www.cod3r.com.br/courses/flutter-desenvolva-um-cadastro-completo) <br>
-- [Curso de Flutter 1](https://www.youtube.com/playlist?list=PLl_hIu4u7P677H9f6zPOHiOz2izkvQq2E) <br>
-- [Curso de Flutter 2](https://www.youtube.com/playlist?list=PL_wKlpKIC9vWubXsj3IRPZ2Rk6QMfsPPg) <br>
-- [Curso de Flutter 3](https://www.youtube.com/playlist?list=PLEXr-WZRgPjwk2v5wYi70WN--pCGvN-9u) <br>
-- [Curso de Flutter 4](https://www.youtube.com/playlist?list=PLRpTFz5_57cufduUDgiZZqA_k5Q7UV_50) <br>
-- [Curso de Flutter 5](https://www.youtube.com/playlist?list=PLrfnI95Js56bWvNYF5ItofdQy3aoJj4tQ) <br>
-- [Curso de Flutter 6](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) <br>
-- [Curso de Flutter 7](https://www.youtube.com/playlist?list=PLqdwHeoSjEN-9aGd-RxaS_2cyD_AKT0c_) <br>
-- [Curso de Flutter 8](https://www.youtube.com/playlist?list=PLg5-aZqPjMmBmCIgUZ0kNtoE7KJfvJZXS) <br>
-- [Curso de Flutter 9](https://www.youtube.com/playlist?list=PLHlHvK2lnJndhgbqLl5DNEvKQg5F4ZenQ) <br>
-- [Curso de Flutter 10](https://www.youtube.com/playlist?list=PL5EmR7zuTn_aX0pG4oWTyKKQT25Hkq2XG) <br>
-
-### Cursos de jQuery
-
+### Cursos de jQuery:
 - [Curso Completo de jQuery (56 aulas)](https://goo.gl/tHdIZ7) <br>
 - [Curso de jQuery 1](https://www.youtube.com/playlist?list=PLIZ0d6lKIbVpF5DffKAX5e9L119PleIqg) <br>
 - [Curso de jQuery 2](https://www.youtube.com/playlist?list=PLcHPNq67CaVnHwfOeK9-7n57aOV6orMSO) <br>
@@ -1283,15 +1179,13 @@
 - [Curso de jQuery 11](https://www.youtube.com/playlist?list=PLdrT3osfZM8wqtx9pEDyXmbn5NpSRSJOL) <br>
 - [Curso de jQuery 12](https://www.youtube.com/playlist?list=PLoRfWwOOv4jzx5mQTbL_un5KSFEAhkm8K) <br>
 
-### Cursos de Less
-
+### Cursos de Less:
 - [Curso de Less (6 aulas)](https://goo.gl/Y5UkLQ) <br>
 - [Curso de Less ](https://www.youtube.com/playlist?list=PLWhiA_CuQkbBSfhS9nzc5BkopBY-22K-D) <br>
 - [Curso de Less ](https://www.youtube.com/playlist?list=PLwzKFCxxOMjPUOJitRL31rD1Zsd030sYX) <br>
 - [Curso de Less ](https://www.youtube.com/playlist?list=PLCTD_CpMeEKT70itw70uVs0vlFbvbCPQN) <br>
 
-### Cursos de Sass
-
+### Cursos de Sass:
 - [Curso de Sass (18 aulas) /Inglês/](https://goo.gl/DzRv1e) <br>
 - [Curso de Sass ](https://www.youtube.com/watch?v=Wo5t3uUV8n4) <br>
 - [Curso de Sass ](https://www.youtube.com/playlist?list=PLCTD_CpMeEKQXywJB8KMN_-GccZuVf9ag) <br>
@@ -1305,8 +1199,7 @@
 - [Curso de Sass ](https://www.youtube.com/playlist?list=PLMy95_4XE08OmaSd_GOLKNkqhoJFvg7w7) <br>
 - [Curso de Sass ](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) <br>
 
-###  Cursos de Bootstrap
-
+###  Cursos de Bootstrap:
 - [Curso de Bootstrap (16 aulas)](https://goo.gl/xFDOxT) <br>
 - [Curso de Bootstrap 1](https://www.youtube.com/playlist?list=PLnDvRpP8Bnexu5wvxogy6N49_S5Xk8Cze) <br>
 - [Curso de Bootstrap 2](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxjh7ZRXg6wXgPaACdFqoBhM) <br>
@@ -1326,8 +1219,7 @@
 - [Curso de Bootstrap 16](https://www.youtube.com/playlist?list=PLsAGEZyePyj9_J7aj4oss5R1z6BlP9Jrv) <br>
 - [Curso de Bootstrap 17](https://www.youtube.com/playlist?list=PLdrT3osfZM8x7J_p0DI3r3WSfrvEc2ZWU) <br>
 
-### Cursos de Git e Github
-
+### Cursos de Git e Github:
 - [Git 4 Noobs](https://github.com/DanielHe4rt/git4noobs) <br>
 - [Comandos Git](https://github.com/theandersonn/comandos-git) <br>
 - [Aprenda Git](https://learngitbranching.js.org/) <br>
@@ -1359,3 +1251,46 @@
 - [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio <br>
 - [What to Code](https://what-to-code.com/) - Compilado de desafios e ideias para você praticar seus códigos e aumentar seu portfólio <br>
 
+
+### Desafios
+- [HackRank](https://www.hackerrank.com/)<br>
+- [Beecrowd](https://www.beecrowd.com.br/judge/en/login)<br>
+- [Codier](https://codier.io/)<br>
+- [Devchallenges](https://devchallenges.io/)<br>
+- [Ace Front End](https://www.acefrontend.com/) - Desafios de programação Front-end. Resultados via texto. IDE integrada <br>
+- [AdventoOfCode](https://adventofcode.com/) - Desafios de programação por temporada. Sem IDE integrada. Validação manual feita pelo usuário <br>
+- [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio <br>
+- [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros <br>
+- [ChallengeRocket](https://challengerocket.com/) - Desafios de Programação Back-end. IDE integrada <br>
+- [Code Golf - StackExchange](https://codegolf.stackexchange.com/) - Desafios de programação da comunidade para a comunidade, IDE integrada somente pelo Snippet <br>
+- [CodeForces](https://codeforces.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada <br>
+- [CodePen Challenges](https://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada <br>
+- [CoderByte](https://coderbyte.com/) - Desafios de Programação Back-end. IDE integrada <br>
+- [CodeSignal](https://app.codesignal.com/) - Desafios de Programação Back-end. IDE integrada <br>
+- [CodeWars](https://www.codewars.com/) - Desafios de Programação Back-end. IDE integrada <br>
+- [Codier](https://codier.io/challenge) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade. IDE integrada <br>
+- [Codility](https://app.codility.com/) - Desafios de Programação Back-end. IDE integrada <br>
+- [Coding Games](https://www.codingame.com/) - Desafios Programação Back-end com foco em temática de jogos. IDE integrada <br>
+- [CSES](https://cses.fi/problemset/) - Desafios de Programação Back-end. IDE integrada <br>
+- [CSS Battle](https://cssbattle.dev/) - Batalhas temporárias de CSS. IDE integrada <br>
+- [DailyCodingProblem](https://www.dailycodingproblem.com/) - Desafios de Programação Back-end enviados por e-mail. Solução do problema Premium <br>
+- [Desafio333](https://github.com/codigofalado/desafio333) - O Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas <br>
+- [DevChallenge](https://www.devchallenge.com.br/) - Site com desafios de front-end, back-end e mobile <br>
+- [DevChallenges.io](https://devchallenges.io/) - Site com projectos webs responsivos, front-end e full-stack <br>
+- [Edabit](https://edabit.com/) - Desafios de Programação Back-end. IDE integrada <br>
+- [Exercism.io](https://exercism.io/) - Desafios de Programação Back-end. Sem IDE integrada. Requer download de CLI. <br>
+- [Flex Box Defense](http://www.flexboxdefense.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada. <br>
+- [Flex Box Froggy](https://flexboxfroggy.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada. <br>
+- [Front End Challanged Club](https://piccalil.li/category/front-end-challenges-club) - Bogs com desafios de programação front-end <br>
+- [Frontend Challengens](https://github.com/felipefialho/frontend-challenges) - Repositório no GitHub com vários desafios solicitados reais solicitados por empresas <br>
+- [Frontend Mentor](https://www.frontendmentor.io/) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade, sem IDE integrada <br>
+- [HackerRank](https://www.hackerrank.com/) - Desafios de Programação Back-end. IDE integrada <br>
+- [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal <br>
+- [LeetCode](https://leetcode.com/) - Desafios de Programação Back-end. IDE integrada <br>
+- [BinarySearch](https://binarysearch.com/) - Desafios de Programação Back-end. IDE integrada <br>
+- [CodeAbbey](https://www.codeabbey.com/) - Desafios de Programação Back-end. IDE integrada <br>
+- [ProjectEuler](https://projecteuler.net/) - Desafios de Programação Back-end focado em problemas matemáticos. IDE integrada <br>
+- [Sphere Onlune Judge (SPOJ)](https://www.spoj.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada <br>
+- [TopCoder](https://arena.topcoder.com/) - Desafios e Arena de Programação Back-end. IDE integrada <br>
+- [URI/Beecrowd](https://www.beecrowd.com.br/) - Desafios Programação Back-end, matemáticos e SQL. IDE integrada <br>
+- [OsProgramadores](https://osprogramadores.com/desafios/) - Desafios de Lógica de Programação do grupo Os Programadores.<br>
