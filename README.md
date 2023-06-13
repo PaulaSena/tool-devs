@@ -1,6 +1,6 @@
 # Dicas, Documentações, Ferramentas para Devs :robot:
 
-### Configuração Ambiente de Desenvolvimento:
+### Configuração do Ambiente de Desenvolvimento:
 - [SSH Key](https://gustavosouza.dev.br/front-end/chave-ssh-do-github/)<br>
 - [Github](GitHub.md)<br>
 - [GitLab](https://gitlab.com/users/sign_in)<br>
