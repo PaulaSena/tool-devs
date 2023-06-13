@@ -1,6 +1,6 @@
 # Dicas, Documentações, Ferramentas para Devs :robot:
 
-### Configuração:
+### Configuração Ambiente de Desenvolvimento:
 - [SSH Key](https://gustavosouza.dev.br/front-end/chave-ssh-do-github/)<br>
 - [Github](GitHub.md)<br>
 - [GitLab](https://gitlab.com/users/sign_in)<br>
@@ -17,6 +17,20 @@
 - [Typescript](https://www.typescriptlang.org/)<br>
 - [Bootstrap](Bootstrap.md)<br>
 - [Materialize](https://materializecss.com/)<br>
+
+### Fundamentos:
+**1. Git e GitHub**
+### Git e Github:
+- [Markdown](https://www.markdownguide.org/)
+- [Badges](https://github.com/Ileriayo/markdown-badges)
+- [Emojins](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [Snnipets](https://snippet-generator.app/)
+  
+- [Git 4 Noobs](https://github.com/DanielHe4rt/git4noobs) <br>
+- [Comandos Git](https://github.com/theandersonn/comandos-git) <br>
+- [Aprenda Git](https://learngitbranching.js.org/) <br>
+- [Git School](https://git-school.github.io/visualizing-git/) <br>
+- [Git Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/) <br>
 
 ### Backend:
 - [Java](Java.md)<br>
@@ -88,7 +102,6 @@
 - [Heroku](https://dashboard.heroku.com/login)<br>
 - [Netlify](https://app.netlify.com/teams/gustavogss/overview)<br>
 - [Vercel](https://vercel.com/dashboard)<br>
-
 
 ### Colors
 - [Palette Colors](https://www.happyhues.co/palettes/12)<br>
@@ -1219,15 +1232,7 @@
 - [Curso de Bootstrap 16](https://www.youtube.com/playlist?list=PLsAGEZyePyj9_J7aj4oss5R1z6BlP9Jrv) <br>
 - [Curso de Bootstrap 17](https://www.youtube.com/playlist?list=PLdrT3osfZM8x7J_p0DI3r3WSfrvEc2ZWU) <br>
 
-### Cursos de Git e Github:
-- [Git 4 Noobs](https://github.com/DanielHe4rt/git4noobs) <br>
-- [Comandos Git](https://github.com/theandersonn/comandos-git) <br>
-- [Aprenda Git](https://learngitbranching.js.org/) <br>
-- [Git School](https://git-school.github.io/visualizing-git/) <br>
-- [Git Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/) <br>
-
-### Outros cursos
-
+### Outros cursos:
 - [AWS](https://explore.skillbuilder.aws/learn?cta=dt_topbanner)<br>
 - [CODERS](https://www.cod3r.com.br/collections?category=cursos-gratuitos)<br>
 - [DIO](https://web.dio.me)<br>
@@ -1246,13 +1251,11 @@
 - [Typescript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_)<br>
 - [Node + Typescript](https://www.youtube.com/playlist?list=PLn3kOoc0oI2cQDdUEQxj75sxgRH53DmSc)<br>
 
-### Ideias para projeto
-
+### Ideias para projeto:
 - [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio <br>
 - [What to Code](https://what-to-code.com/) - Compilado de desafios e ideias para você praticar seus códigos e aumentar seu portfólio <br>
 
-
-### Desafios
+### Desafios:
 - [HackRank](https://www.hackerrank.com/)<br>
 - [Beecrowd](https://www.beecrowd.com.br/judge/en/login)<br>
 - [Codier](https://codier.io/)<br>
